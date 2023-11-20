@@ -1,3 +1,5 @@
 # Adding config.py file.
 api_keys.py
 .DS_Store
+Starter_Code
+__pycache__
